@@ -36,6 +36,7 @@ structural market drivers.
 
 
 ## Repository Structure
+
 .
 ├── ICA.ipynb            # FastICA analysis and component interpretation
 ├── preprocess.ipynb     # Data cleaning, currency conversion, unit harmonization
